@@ -11,6 +11,7 @@
     "test": "node test.js"
   },
   "dependencies": {
+    "@nodeutils/defaults-deep": "^1.1.0",
     "async": "^2.6.2",
     "debug": "^4.1.1",
     "ejs": "^2.5.6",
